@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.user-box-info {
+    width: 50%;
+    margin-left: 23%;
+    height: 500px;
+    text-align: center;
+    background-color: azure;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.profilePicture {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.text {
+    text-align: justify;
+    width: 87%;
+    margin-left: 7%;
+    font-size: 18px;
+}
+
+.btn-toggle-profile {
+    padding: 10px 15px;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
